@@ -7,9 +7,9 @@ Understanding of machine learning algorithm
 ### Requirements
 Updated version of python  
 Basic Pack ages  
-    #### pip  
+    ### pip  
         sudo apt-get install python3-pip   
-    #### other packages  
+    ### other packages  
     1. save file containing below line as requirement.txt  
         pandas   
         numpy   
